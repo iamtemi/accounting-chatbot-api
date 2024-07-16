@@ -41,4 +41,9 @@ router.post("/ask", async (req, res) => {
   }
 });
 
+router.get("/chat-history", (req, res) => {
+  const chatHistories = readChatHistories();
+  res.json(chatHistories);
+});
+
 export default router;
