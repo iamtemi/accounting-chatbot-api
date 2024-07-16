@@ -4,6 +4,7 @@ import {
   readChatHistories,
   writeChatHistories,
 } from "../utils/jsonModifier.js";
+import { randomUUID } from "crypto";
 
 const router = express.Router();
 
