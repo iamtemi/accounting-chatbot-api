@@ -1,0 +1,24 @@
+{
+  "9a03c10e-9a75-45a0-9067-f313a650cef1": [
+    {
+      "question": "What is accounts receivable?",
+      "answer": "Accounts receivable refers to the money that a business is owed by its customers for goods or services that have been delivered but payment has not been received yet. It is considered an asset on the balance sheet of a company and represents the amount of money that is expected to be collected from customers in the future. Tracking accounts receivable is important for managing cash flow and ensuring that the business has enough funds to operate effectively."
+    }
+  ],
+  "f590d36b-513b-49ec-a3f8-a7c043564140": [
+    {
+      "question": "What is a financial model?",
+      "answer": "A financial model is a mathematical representation of a company's financial performance, used to make predictions about future financial outcomes. It typically includes projections of revenue, expenses, cash flow, and other financial metrics based on assumptions about factors such as market conditions, competition, and operational efficiency. Financial models are commonly used for budgeting, forecasting, valuation, and decision-making purposes."
+    }
+  ],
+  "05df0b79-d6fa-476c-aefc-4779a39c2370": [
+    {
+      "question": "Explain depreciation to me like a 5 year old",
+      "answer": "Depreciation is when things lose their value over time. Just like how your toy might get old and not be as fun to play with anymore, cars, machines, and buildings lose their value as they get older or used a lot."
+    },
+    {
+      "question": "Really? Does my food depreciate too?",
+      "answer": "Yes, food can depreciate in quality over time due to spoilage, mold growth, or other factors. It is important to properly store and handle food to prevent it from depreciating."
+    }
+  ]
+}

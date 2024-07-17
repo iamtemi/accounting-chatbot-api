@@ -9,7 +9,7 @@ const agent = new ChatOpenAI({
 export async function getResponse(query) {
   try {
     const response = await agent.invoke(query);
-    console.log("Full response:", response);
+    // console.log("Full response:", response);
 
     if (response && response.content) {
       const content = response.content;
