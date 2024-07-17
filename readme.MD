@@ -1,6 +1,7 @@
 # Chat Application Backend
 
 This is the backend service for the Chat Application, built with Node.js and Express.
+Used JSON file to store chat data
 
 ## Features
 
